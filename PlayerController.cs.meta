@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4eb8aac3121ea9148aecd8994ddd618f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {fileID: 5932443503822979254, guid: e2434ab4d1ac42a42b893b0169776f7e, type: 3}
+  - shipExplode: {fileID: 1939434956190648901, guid: d57263328c5d04b40a793e2fa664cc4f, type: 3}
+  - smokeTrail: {fileID: 246239481808225791, guid: 0065dfabff2235b43a9c04ae2a15d4bf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
